@@ -1,10 +1,6 @@
 # admin_panel_login
 
-A new Flutter project.
-
-# timezone_by_area
-
-Dünya Saatleri Uygulaması.
+Admin Panel Giriş Yapma Ekranı
 
 ## Uygulamaya Başlarken :
 
